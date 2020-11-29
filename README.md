@@ -1,6 +1,6 @@
 ### Hi Friends
 
-This priject is my blog. Welcome you get me some suggestions. My email ☛ <clarkaaron@163.com>.
+This project is my blog. Welcome you get me some suggestions. My email ☛ <clarkaaron@163.com>.
 
 <!--
 **clark-aaron/clark-aaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
