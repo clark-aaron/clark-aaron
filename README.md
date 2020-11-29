@@ -1,6 +1,6 @@
 ### Hi Friends
 
-This project is my blog. Welcome you get me some suggestions. My email ☛ <clarkaaron@163.com>.
+I'm Clark Aaron. If you have any question, you can send message for me. ☛ <clarkaaron@163.com>
 
 <!--
 **clark-aaron/clark-aaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
